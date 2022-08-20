@@ -1,0 +1,25 @@
+*,
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-color: #a0afbb;
+}
+
+
+.table {
+  margin: 0 auto 25px;
+}
+
+.button {
+  color: blue;
+}
+
+.hero-body {
+  background-color: #b4c0c9;
+  font-size: 1rem;
+}
